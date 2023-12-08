@@ -1,5 +1,5 @@
-: [![MasterHead](http:https://wallhere.com/tr/wallpaper/1355233)
-<h1 align="center">Hi 👋, I'm İpek Nur Günümdoğdu</h1>
+
+<h1 align="center">Selam 👋,Ben İpek Nur Günümdoğdu</h1>
 <h3 align="center">Full-stack geliştirici olma yolunda</h3>
 
 - 🔭 I’m currently working on **Javascript**
