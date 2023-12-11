@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ladyipekk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ladyipekk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/İpek Nur Günümdoğdu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ipeknurgünümdoğdu/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/İpek Nur Günümdoğdu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/İpek Nur Günümdoğdu/" height="30" width="40" /></a>
 <a href="https://instagram.com/devcraftipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devcraftipek" height="30" width="40" /></a>
 <a href="https://www.behance.net/i̇peknurgünümdoğdu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="i̇pek nur günümdoğdu" height="30" width="40" /></a>
 <a href="https://discord.gg/.ipeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".ipeks" height="30" width="40" /></a>
